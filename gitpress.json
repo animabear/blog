@@ -1,1 +1,18 @@
-{}
+{
+    "docs"        : {
+        "CSS"        : "posts/css",
+        "HTML5"      : "posts/html5",
+        "JavaScript" : "posts/javascript",
+        "其他"       : "posts/other"
+    },
+    "perpage"     : 10,
+    "template"    : "greyshade", // default、slate、tactile、phase、pithiness、greyshade
+    "types"       : {
+        "\\.(md||markdown)$"   : "markdown",
+        "\\.(js||css||json)$"  : "code",
+        "\\.html?$"            : "html",
+        ".*"                   : "text"
+    },
+    "title"       : "Animabear's Blog",
+    "comment"     : "on"
+}
