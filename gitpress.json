@@ -6,7 +6,7 @@
         "其他"       : "posts/other"
     },
     "perpage"     : 10,
-    "template"    : "tactile", // default、slate、tactile、phase、pithiness、greyshade
+    "template"    : "phase", // default、slate、tactile、phase、pithiness、greyshade
     "types"       : {
         "\\.(md||markdown)$"   : "markdown",
         "\\.(js||css||json)$"  : "code",
