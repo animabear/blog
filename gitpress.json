@@ -6,13 +6,13 @@
         "其他"       : "posts/other"
     },
     "perpage"     : 10,
-    "template"    : "greyshade", // default、slate、tactile、phase、pithiness、greyshade
+    "template"    : "greyshade",
     "types"       : {
-        "\\.(md||markdown||mdown)$"   : "markdown",
+        "\\.(md||markdown)$"   : "markdown",
         "\\.(js||css||json)$"  : "code",
         "\\.html?$"            : "html",
         ".*"                   : "text"
     },
     "title"       : "Animabear's Blog",
-    "comment"     : "on"
+    "comment"     : {"type": "duoshuo", "short_name": "animabear"}
 }
