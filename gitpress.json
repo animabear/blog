@@ -8,7 +8,7 @@
     "perpage"     : 10,
     "template"    : "pithiness", // default、slate、tactile、phase、pithiness、greyshade
     "types"       : {
-        "\\.(md||markdown)$"   : "markdown",
+        "\\.(md||markdown||mdown)$"   : "markdown",
         "\\.(js||css||json)$"  : "code",
         "\\.html?$"            : "html",
         ".*"                   : "text"
