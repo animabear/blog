@@ -1,6 +1,6 @@
 {
     "docs"        : {
-        "CSS3"        : "posts/css3",
+        "CSS3"       : "posts/css3",
         "HTML5"      : "posts/html5",
         "JavaScript" : "posts/javascript",
         "其他"       : "posts/other",
