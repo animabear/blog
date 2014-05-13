@@ -43,6 +43,7 @@
 官方文档：<http://phantomjs.org/documentation/>  
 
 相关博客：  
+[前端自动化测试利器 - PhantomJS][3]  
 [phantomjs使用说明][2]  
 <http://javascript.ruanyifeng.com/tool/phantomjs.html>
 
@@ -51,3 +52,4 @@
 
 [1]: http://www.zenmeo.com/wordpress/what-is-headless-browser-the-list-of-headless-browser/
 [2]: http://zhouhua.github.io/2014/03/19/phantomjs/
+[3]: http://pm163.lofter.com/post/aa404_197d8e
