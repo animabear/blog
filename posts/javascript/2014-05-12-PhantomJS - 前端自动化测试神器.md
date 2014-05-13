@@ -42,7 +42,12 @@
 
 官方文档：<http://phantomjs.org/documentation/>  
 
+相关博客：  
+[phantomjs使用说明][2]  
+<http://javascript.ruanyifeng.com/tool/phantomjs.html>
+
 之后如果在使用中有了什么心得，再来分享~
 
 
 [1]: http://www.zenmeo.com/wordpress/what-is-headless-browser-the-list-of-headless-browser/
+[2]: http://zhouhua.github.io/2014/03/19/phantomjs/
