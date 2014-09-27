@@ -1,18 +1,21 @@
 {
-    "docs"      : ["README.md", "README.markdown", "README"],
-    "template"    : "default",
-    "domain_alias" :  ["your.domain"],
-    "perpage"   : 10,
-    "order"  : "number",
-    "types"     : {
-        "\\.(md||markdown)$"   : "markdown", 
+    "docs"        : {
+        "CSS3"       : "posts/css3",
+        "HTML5"      : "posts/html5",
+        "JavaScript" : "posts/javascript",
+        "其他"       : "posts/other",
+        "关于我"     : "posts/about"
+    },
+    "perpage"     : 10,
+    "template"    : "greyshade",
+    "types"       : {
+        "\\.(md||markdown)$"   : "markdown",
         "\\.(js||css||json)$"  : "code",
         "\\.html?$"            : "html",
         ".*"                   : "text"
     },
     "title"  : "Akira's Blog",
     "description" : "My Blog Description...",
-    "comment"  : {"type":"disqus", "short_name":"gitpress"},
     "friends"  : [
         {
           "name"  : "github",
@@ -24,5 +27,7 @@
           "title"  : "gitpress",
           "url"  : "http://gitpress.org"
         }
-    ] 
+    ],
+    "title"       : "Animabear's Blog",
+    "comment"     : {"type": "duoshuo", "short_name": "animabear"}
 }
