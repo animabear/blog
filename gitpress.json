@@ -14,8 +14,8 @@
         "\\.html?$"            : "html",
         ".*"                   : "text"
     },
-    "title"  : "Akira's Blog",
-    "description" : "My Blog Description...",
+    "title"       : "Animabear's Blog",
+    "comment"     : {"type": "duoshuo", "short_name": "animabear"},
     "friends"  : [
         {
           "name"  : "github",
@@ -27,7 +27,5 @@
           "title"  : "gitpress",
           "url"  : "http://gitpress.org"
         }
-    ],
-    "title"       : "Animabear's Blog",
-    "comment"     : {"type": "duoshuo", "short_name": "animabear"}
+    ]
 }
